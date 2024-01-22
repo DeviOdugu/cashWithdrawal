@@ -1,0 +1,66 @@
+/* Write your CSS here */
+.bg {
+  background-color: #150b3e;
+  border-radius: 16px;
+  margin: 20px;
+  font-family: 'Roboto';
+  padding: 30px;
+}
+.a {
+  display: flex;
+}
+.initial {
+  background-color: #c7d2fe;
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #7c3aed;
+  font-size: 15px;
+  margin: 10px;
+  margin-left: 45px;
+}
+.name {
+  color: #d4d2db;
+  padding-top: 12px;
+  font-size: 18px;
+}
+.b {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  padding-right: 50px;
+}
+.urBal {
+  color: #585076;
+  font-size: 20px;
+  padding-top: 17px;
+  padding-left: 30px;
+}
+.bal {
+  color: #c4c4c4;
+  font-size: 30px;
+  font-weight: 700;
+}
+.rup {
+  color: #585076;
+  font-size: 12px;
+  padding-left: 5px;
+}
+.wDraw {
+  color: #c4c4c4;
+  font-size: 22px;
+  padding-left: 50px;
+}
+.choose {
+  color: #585076;
+  font-size: 15px;
+  padding-left: 50px;
+}
+.lists {
+  display: flex;
+  list-style-type: none;
+  flex-wrap: wrap;
+}
