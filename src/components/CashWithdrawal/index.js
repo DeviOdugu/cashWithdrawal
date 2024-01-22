@@ -22,7 +22,6 @@ class CashWithdrawal extends Component {
           <p className="initial">S</p>
           <p className="name">Sarah Williams</p>
         </div>
-
         <div className="b">
           <p className="urBal">Your Balance</p>
           <div>
